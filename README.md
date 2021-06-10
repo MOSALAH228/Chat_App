@@ -1,32 +1,10 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
-## Our Goal
-
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
-
-
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+its an small app that dealing with login and register by using firebase Authentication and u can chat with your friends by using firebase cloud and store the data
+in firebase database ........so its basically depend on firebase as a backend with using some beatiful animations and a pretty ui chat.....i hope to like it.
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Screenshot_1623340322](https://user-images.githubusercontent.com/77206236/121563795-0e6ec400-ca1b-11eb-8c84-963b97df3189.png)
+![Screenshot_1623340346](https://user-images.githubusercontent.com/77206236/121563808-1169b480-ca1b-11eb-8a35-370da8b2a2bd.png)
+![Screenshot_1623340354](https://user-images.githubusercontent.com/77206236/121563819-1464a500-ca1b-11eb-938e-e69f6d4d1a15.png)
+![Screenshot_1623340315](https://user-images.githubusercontent.com/77206236/121563833-162e6880-ca1b-11eb-8e93-c0bc1e4fa3a2.png)
