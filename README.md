@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-its an small app that dealing with login and register by using firebase Authentication and u can chat with your friends by using firebase cloud and store the data
+its an small app that dealing with login and register by using firebase Authentication and u can chat with your friends and store the data
 in firebase database ........so its basically depend on firebase as a backend with using some beatiful animations and a pretty ui chat.....i hope to like it.
 
 
